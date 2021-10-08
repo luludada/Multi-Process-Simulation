@@ -14,6 +14,7 @@ This project is simulation of multi process schedule and communcation consisting
 - R: Receive a message
 - Y: unblocks sender and delivers reply
 - N: Initialize new semaphore
-- P: Execute semaphore P FunctionnV: Execute semaphore V Function
+- P: Execute semaphore P Functionn
+- V: Execute semaphore V Function
 - I: Print complete process state info
 - T: Display all process queues and contents
